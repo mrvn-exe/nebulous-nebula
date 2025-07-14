@@ -9,6 +9,12 @@ pubDate: 2025-07-08
 tags: ["astro", "blogging", "learning in public", "successes"]
 ---
 
-# Placeholder Post-2
+# Styling with CSS on a local and global scope
 
-This posts just acts as a placeholder, there is nothing to see here!
+Published on: 14.07.2025
+
+While following the tutorial on how to work with the Astro framework, I learned how to style a page with CSS!
+
+## What I've accomplished
+
+1. **Styling in a local scope**: First, I styled the heading `<h1>` in purple and with a font size of 4rem.
