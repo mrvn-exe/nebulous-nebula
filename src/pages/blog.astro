@@ -1,5 +1,5 @@
 ---
-import Navigation from '../components/Navigation.astro';
+import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
 
@@ -16,14 +16,14 @@ const pageTitle = "Marvin's Blog";
 	</head>
 	<body>
 		
-		<Navigation />
+		<Header />
 
 		<h1>{pageTitle}</h1>
         <p>Here you'll find all my blog posts about my learning journey:</p>
 		<ul>
 			<li><a href="/posts/post-1/">The first post... of many?</a></li>
 			<li><a href="/posts/post-2/">Styling with CSS on a local and global scope</a></li>
-			<li><a href="/posts/post-3/">Placeholder 3</a></li>
+			<li><a href="/posts/post-3/">Creating components and using them to refacture</a></li>
 		</ul>
 		<Footer />
 	</body>
