@@ -1,5 +1,5 @@
 html {
-  background-color: #f1f5f9;
+  background-color: #ffffff;
   font-family: sans-serif;
 }
 
@@ -16,6 +16,7 @@ body {
 }
 
 h1 {
+  color: purple;
   margin: 1rem 0;
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
